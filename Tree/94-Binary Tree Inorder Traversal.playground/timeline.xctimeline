@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=18&amp;CharacterRangeLoc=1258&amp;EndingColumnNumber=19&amp;EndingLineNumber=58&amp;StartingColumnNumber=1&amp;StartingLineNumber=58&amp;Timestamp=522039616.062989"
+         lockedSize = "{619.5, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/calios/Documents/MyWorkspace/iOS/Algorithm/MyLeetCode/94-Binary%20Tree%20Inorder%20Traversal.playground#CharacterRangeLen=52&amp;CharacterRangeLoc=1276&amp;EndingLineNumber=59&amp;StartingLineNumber=59&amp;Timestamp=522039616.06319"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
